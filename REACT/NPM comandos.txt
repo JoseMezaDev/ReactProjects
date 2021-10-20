@@ -1,0 +1,5 @@
+npm run test
+comando para abrir pruebas de npm
+
+npm start
+comando para iniciar aplicacion
